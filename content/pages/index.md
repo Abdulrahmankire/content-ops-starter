@@ -183,7 +183,7 @@ sections:
       altText: altText of the image
       backgroundSize: contain
       backgroundPosition: ''
-      backgroundRepeat: no-repeat
+      backgroundRepeat: repeat
       opacity: 100
       url: /images/16d7a214-08c8-4550-87fb-996b6e651eb0 (1).jpg
   - type: FeaturedItemsSection
