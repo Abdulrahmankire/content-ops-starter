@@ -65,7 +65,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: ''
+    subtitle: stylish modern and comfy
     items:
       - title: Feature Item One
         tagline: This is the tagline
