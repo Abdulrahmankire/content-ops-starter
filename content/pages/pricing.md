@@ -45,7 +45,7 @@ sections:
         type: PricingPlan
       - title: ''
         price: $99
-        details: per month
+        details: t-Shirt
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
