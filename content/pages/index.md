@@ -303,10 +303,10 @@ sections:
     styles:
       self:
         padding:
-          - pb-10
-          - pt-10
-          - pl-10
-          - pr-10
+          - pb-1
+          - pt-1
+          - pl-1
+          - pr-1
         justifyContent: center
         margin:
           - mt-0
