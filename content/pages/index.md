@@ -203,16 +203,6 @@ sections:
       backgroundRepeat: no-repeat
       opacity: 100
       url: /images/shirt-mockup-concept-with-plain-clothing.jpg
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
   - title:
       text: List of features here
       color: text-primary
@@ -305,6 +295,16 @@ sections:
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
+  - title: Divider
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-7
+          - pl-7
+          - pb-7
+          - pr-7
+    type: DividerSection
   - type: GenericSection
     title:
       text: Generic section with a video
