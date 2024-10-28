@@ -156,6 +156,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+        fontStyle: italic
     type: FeaturedItemsSection
   - type: FeaturedItemsSection
     title:
