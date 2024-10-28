@@ -307,7 +307,7 @@ sections:
           - pt-36
           - pl-36
           - pr-36
-        justifyContent: flex-start
+        justifyContent: flex-end
       subtitle:
         textAlign: center
   - title: Divider
