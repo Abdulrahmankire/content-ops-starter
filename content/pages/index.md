@@ -123,9 +123,16 @@ sections:
       - title: Printed-Hoodie
         tagline: printed
         subtitle: This is the item subtitle
-        text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
+        text: >+
+          **Brighten up your wardrobe with our collection of printed hoodies,
+          perfect for expressing personality and style. Each hoodie combines
+          comfort with eye-catching designs, featuring cozy fleece fabric,
+          relaxed fits, and functional details like kangaroo pockets and
+          adjustable drawstring hoods. Whether you're looking for a playful
+          graphic or a bold statement, these hoodies are versatile staples that
+          add fun and warmth to any casual look.**
+
+
         image:
           url: >-
             /images/Cheky - Women Couple Hoodies Sweatshirt Fleece Dream Merch -
