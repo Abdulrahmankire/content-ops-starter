@@ -59,7 +59,7 @@ sections:
       opacity: 100
       url: /images/shirt-mockup-concept-with-plain-clothing.jpg
   - title:
-      text: List of features here
+      text: Check our products
       color: text-primary
       styles:
         self:
