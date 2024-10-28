@@ -65,7 +65,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: stylish modern and comfy
+    subtitle: 'stylish , modern and comfy'
     items:
       - title: 'Hoodie '
         tagline: basic
