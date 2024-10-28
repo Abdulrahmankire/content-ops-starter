@@ -17,7 +17,7 @@ sections:
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     media:
       title: Title of the video
-      url: 'https://www.youtube.com/watch?v=Itj2dX8eots'
+      url: 'https://www.youtube.com/watch?v=ah-qNjM-V8Y'
       controls: false
       aspectRatio: '16:9'
       styles:
