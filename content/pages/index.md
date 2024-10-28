@@ -68,7 +68,7 @@ sections:
     subtitle: stylish modern and comfy
     items:
       - title: 'Hoodie '
-        tagline: This is the tagline
+        tagline: basic
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify Create site.
