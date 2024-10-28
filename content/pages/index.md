@@ -160,7 +160,7 @@ sections:
         padding:
           - pt-24
           - pl-24
-          - pb-24
+          - pb-36
           - pr-24
         justifyContent: center
         margin:
