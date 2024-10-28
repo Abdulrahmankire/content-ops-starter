@@ -69,7 +69,7 @@ sections:
     items:
       - title: 'Hoodie '
         tagline: basic
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
