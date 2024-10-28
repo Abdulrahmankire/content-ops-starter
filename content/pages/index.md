@@ -122,7 +122,7 @@ sections:
         type: FeaturedItem
       - title: Printed-Hoodie
         tagline: printed
-        subtitle: This is the item subtitle
+        subtitle: Printed Hoodie Collection
         text: >+
           **Brighten up your wardrobe with our collection of printed hoodies,
           perfect for expressing personality and style. Each hoodie combines
