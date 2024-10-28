@@ -154,7 +154,7 @@ sections:
             flexDirection: col
         type: FeaturedItem
     variant: three-col-grid
-    colors: bg-neutral-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         padding:
