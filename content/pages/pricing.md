@@ -44,7 +44,7 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: t-Shirt
-        price: $99
+        price: 600 EGP
         details: ''
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
