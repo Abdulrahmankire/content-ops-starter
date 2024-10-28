@@ -36,7 +36,7 @@ sections:
       loop: true
       muted: true
     badge:
-      label: Key Benefits
+      label: Welcome to HOOR
       color: text-primary
       styles:
         self:
