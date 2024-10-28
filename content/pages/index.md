@@ -36,7 +36,7 @@ sections:
       loop: true
       muted: true
     badge:
-      label: Welcome to HOOR
+      label: Welcome to
       color: text-primary
       styles:
         self:
