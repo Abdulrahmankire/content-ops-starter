@@ -3,7 +3,7 @@ title: Home
 slug: /
 sections:
   - title:
-      text: HOOR EGYPT
+      text: HOOR EGY
       color: text-dark
       styles:
         self:
