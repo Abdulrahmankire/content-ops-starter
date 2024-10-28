@@ -292,7 +292,7 @@ sections:
             flexDirection: col
             justifyContent: center
     actions: []
-    elementId: ''
+    elementId: Basic Hoodies
     variant: two-col-grid
     colors: bg-neutral-fg-dark
     styles:
