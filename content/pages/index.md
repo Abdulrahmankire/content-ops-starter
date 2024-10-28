@@ -292,13 +292,6 @@ sections:
             flexDirection: col
             justifyContent: center
     actions: []
-    badge:
-      label: This is a badge
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
     elementId: ''
     variant: two-col-grid
     colors: bg-neutral-fg-dark
