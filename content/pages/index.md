@@ -159,6 +159,16 @@ sections:
         fontStyle: italic
         fontWeight: 500
     type: FeaturedItemsSection
+    actions:
+      - type: Link
+        label: Buy now
+        altText: Buy now
+        url: /pricing
+        showIcon: true
+        icon: shoppingBag
+        iconPosition: left
+        style: secondary
+        elementId: ''
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
