@@ -176,7 +176,7 @@ sections:
         showIcon: true
         icon: shoppingBag
         iconPosition: left
-        style: secondary
+        style: primary
         elementId: ''
     backgroundImage:
       type: BackgroundImage
