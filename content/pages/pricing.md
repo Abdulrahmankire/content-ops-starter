@@ -95,7 +95,7 @@ sections:
           type: ImageBlock
         actions:
           - label: Contact us
-            url: /
+            url: '/https://www.instagram.com/hoor.eg1/'
             icon: arrowRight
             iconPosition: right
             style: secondary
