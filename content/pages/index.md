@@ -160,7 +160,7 @@ sections:
         padding:
           - pt-3
           - pl-3
-          - pb-3
+          - pb-24
           - pr-3
         justifyContent: center
       subtitle:
