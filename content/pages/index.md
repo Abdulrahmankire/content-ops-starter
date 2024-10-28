@@ -96,8 +96,15 @@ sections:
       - title: Zip-up Hoodie
         tagline: zipper
         subtitle: Classic Zip-Up Hoodie
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: >+
+          This versatile zip-up hoodie combines warmth and style in one piece.
+          Crafted from soft fleece, it features a full-length zipper, roomy
+          kangaroo pockets, and a relaxed fit. Perfect for layering, it’s a
+          go-to choice for everyday wear, blending effortlessly with any casual
+          look.
+
+
+
         image:
           url: /images/Fleece Zip Up Hoodie - Brown _ 2XL (1).jpg
           altText: Placeholder image
