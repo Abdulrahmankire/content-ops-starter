@@ -158,11 +158,16 @@ sections:
     styles:
       self:
         padding:
-          - pt-16
-          - pl-8
-          - pb-16
-          - pr-8
+          - pt-9
+          - pl-9
+          - pb-9
+          - pr-9
         justifyContent: center
+        margin:
+          - mt-0
+          - ml-0
+          - mb-0
+          - mr-0
       subtitle:
         textAlign: center
         fontStyle: italic
@@ -293,16 +298,21 @@ sections:
             justifyContent: center
     actions: []
     elementId: Basic Hoodies
-    variant: two-col-grid
+    variant: three-col-grid
     colors: bg-neutral-fg-dark
     styles:
       self:
         padding:
-          - pb-16
-          - pt-16
-          - pl-16
-          - pr-16
+          - pb-24
+          - pt-24
+          - pl-24
+          - pr-24
         justifyContent: center
+        margin:
+          - mt-0
+          - ml-0
+          - mb-0
+          - mr-0
       subtitle:
         textAlign: center
   - title: Divider
