@@ -308,6 +308,11 @@ sections:
           - pl-0
           - pr-0
         justifyContent: center
+        margin:
+          - mt-5
+          - ml-5
+          - mb-5
+          - mr-5
       subtitle:
         textAlign: center
   - title: Divider
