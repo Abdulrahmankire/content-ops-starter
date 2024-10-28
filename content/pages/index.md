@@ -76,7 +76,7 @@ sections:
           Perfect for everyday wear, it’s a versatile wardrobe staple that pairs
           effortlessly with any outfit.**
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/Guys Kangaroo Pocket Drawstring Hoodie (1).jpg
           altText: Placeholder Image
           styles:
             self:
