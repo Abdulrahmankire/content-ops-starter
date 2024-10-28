@@ -120,7 +120,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Three
+      - title: Printed-Hoodie
         tagline: printed
         subtitle: This is the item subtitle
         text: >
