@@ -187,7 +187,7 @@ sections:
       opacity: 100
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Basic Hoodies
       color: text-dark
       styles:
         self:
