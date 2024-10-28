@@ -60,7 +60,7 @@ sections:
       url: /images/shirt-mockup-concept-with-plain-clothing.jpg
   - title:
       text: Check our products
-      color: text-primary
+      color: text-light
       styles:
         self:
           textAlign: center
