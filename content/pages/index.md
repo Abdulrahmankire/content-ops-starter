@@ -163,6 +163,11 @@ sections:
           - pb-24
           - pr-24
         justifyContent: center
+        margin:
+          - mt-24
+          - ml-24
+          - mb-24
+          - mr-24
       subtitle:
         textAlign: center
         fontStyle: italic
