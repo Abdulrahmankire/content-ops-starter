@@ -303,10 +303,10 @@ sections:
     styles:
       self:
         padding:
-          - pb-16
-          - pt-16
-          - pl-16
-          - pr-16
+          - pb-36
+          - pt-36
+          - pl-36
+          - pr-36
         justifyContent: center
       subtitle:
         textAlign: center
