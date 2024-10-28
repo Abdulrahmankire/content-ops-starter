@@ -95,7 +95,7 @@ sections:
         type: FeaturedItem
       - title: Zip up Hoodie
         tagline: zipper
-        subtitle: This is the item subtitle
+        subtitle: Classic Zip-Up Hoodie
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
