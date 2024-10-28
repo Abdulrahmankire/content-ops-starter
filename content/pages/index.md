@@ -298,7 +298,7 @@ sections:
             justifyContent: center
     actions: []
     elementId: Basic Hoodies
-    variant: toggle-list
+    variant: three-col-grid
     colors: bg-neutral-fg-dark
     styles:
       self:
