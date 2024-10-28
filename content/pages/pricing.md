@@ -88,7 +88,9 @@ sections:
           - Feature four
           - Feature five
         image:
-          url: /images/abstract-feature3.svg
+          url: >-
+            /images/Women Casual Fashion California Hoodie Los Angeles Pullover
+            Drawstring Graphic Sweatshirt.jpg
           altText: Pricing plan 3
           type: ImageBlock
         actions:
