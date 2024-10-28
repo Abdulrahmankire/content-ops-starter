@@ -129,7 +129,7 @@ sections:
         image:
           url: >-
             /images/Cheky - Women Couple Hoodies Sweatshirt Fleece Dream Merch -
-            Dark green B _ XL (1).jpg
+            Dark green B _ XL (2).jpg
           altText: Placeholder image
           styles:
             self:
