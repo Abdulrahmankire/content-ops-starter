@@ -70,8 +70,11 @@ sections:
       - title: 'Hoodie '
         tagline: basic
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          This cozy, high-quality grey hoodie combines comfort and style with a
+          relaxed fit, kangaroo pocket, and adjustable drawstring hood. Perfect
+          for everyday wear, it’s a versatile wardrobe staple that pairs
+          effortlessly with any outfit.
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder Image
