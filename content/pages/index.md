@@ -57,6 +57,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/shirt-mockup-concept-with-plain-clothing.jpg
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
