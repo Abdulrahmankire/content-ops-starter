@@ -2,160 +2,14 @@
 title: Home
 slug: /
 sections:
-  - type: FeaturedItemsSection
-    title:
-      text: Key Benefits
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: Subtitle goes here
-    items:
-      - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        actions: []
-        elementId: null
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            justifyContent: center
-            textAlign: left
-        image:
-          type: ImageBlock
-          altText: Lightning bolt symbol on red background
-          elementId: ''
-          url: /images/icon1.svg
-          styles:
-            self:
-              borderRadius: x-large
-      - title: 20x
-        subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/icon2.svg
-          altText: Featured icon two
-          elementId: ''
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            textAlign: left
-            justifyContent: center
-        type: FeaturedItem
-      - title: 200%
-        subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/icon3.svg
-          altText: Featured icon three
-          elementId: ''
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-        type: FeaturedItem
-    actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Button
-    badge:
-      label: This is a badge
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
-    elementId: ''
-    variant: three-col-grid
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        padding:
-          - pb-16
-          - pt-16
-          - pl-16
-          - pr-16
-        justifyContent: center
-      subtitle:
-        textAlign: center
-  - posts:
-      - content/pages/blog/case-study-1.md
-      - content/pages/blog/case-study-2.md
-      - content/pages/blog/case-study-3.md
-    showThumbnail: true
-    showDate: true
-    showAuthor: true
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-    type: FeaturedPostsSection
-    hoverEffect: move-up
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
   - title:
-      text: Grow your business 10x faster
+      text: HOOR EGY
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
+    subtitle: Our clothing local brand
     text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
@@ -163,7 +17,7 @@ sections:
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     media:
       title: Title of the video
-      url: /images/placeholder-video.mp4
+      url: 'https://www.youtube.com/watch?v=ah-qNjM-V8Y'
       controls: false
       aspectRatio: '16:9'
       styles:
@@ -182,7 +36,7 @@ sections:
       loop: true
       muted: true
     badge:
-      label: Key Benefits
+      label: Welcome to
       color: text-primary
       styles:
         self:
@@ -196,6 +50,271 @@ sections:
       subtitle:
         textAlign: center
     type: GenericSection
+    backgroundImage:
+      type: BackgroundImage
+      altText: altText of the image
+      backgroundSize: auto
+      backgroundPosition: center
+      backgroundRepeat: no-repeat
+      opacity: 100
+      url: /images/shirt-mockup-concept-with-plain-clothing.jpg
+  - title:
+      text: Check our products
+      color: text-light
+      styles:
+        self:
+          textAlign: center
+      type: TitleBlock
+    subtitle: 'stylish , modern and comfy'
+    items:
+      - title: 'Hoodie '
+        tagline: basic
+        subtitle: Essential Comfort Hoodie
+        text: >
+          **This cozy, high-quality grey hoodie combines comfort and style with
+          a relaxed fit, kangaroo pocket, and adjustable drawstring hood.
+          Perfect for everyday wear, it’s a versatile wardrobe staple that pairs
+          effortlessly with any outfit.**
+        image:
+          url: /images/Guys Kangaroo Pocket Drawstring Hoodie (1).jpg
+          altText: Placeholder Image
+          styles:
+            self:
+              borderRadius: x-large
+          type: ImageBlock
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+        type: FeaturedItem
+      - title: Zip-up Hoodie
+        tagline: zipper
+        subtitle: Classic Zip-Up Hoodie
+        text: >
+          **This versatile zip-up hoodie combines warmth and style in one piece.
+          Crafted from soft fleece, it features a full-length zipper, roomy
+          kangaroo pockets, and a relaxed fit. Perfect for layering, it’s a
+          go-to choice for everyday wear, blending effortlessly with any casual
+          look.**
+        image:
+          url: /images/Fleece Zip Up Hoodie - Brown _ 2XL (1).jpg
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+          type: ImageBlock
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+        type: FeaturedItem
+      - title: Printed-Hoodie
+        tagline: printed
+        subtitle: Printed Hoodie Collection
+        text: >+
+          **Brighten up your wardrobe with our collection of printed hoodies,
+          perfect for expressing personality and style. Each hoodie combines
+          comfort with eye-catching designs, featuring cozy fleece fabric,
+          relaxed fits, and functional details like kangaroo pockets and
+          adjustable drawstring hoods. Whether you're looking for a playful
+          graphic or a bold statement, these hoodies are versatile staples that
+          add fun and warmth to any casual look.**
+
+
+        image:
+          url: >-
+            /images/Cheky - Women Couple Hoodies Sweatshirt Fleece Dream Merch -
+            Dark green B _ XL (2).jpg
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+          type: ImageBlock
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+        type: FeaturedItem
+    variant: three-col-grid
+    colors: bg-dark-fg-light
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-8
+          - pb-16
+          - pr-8
+        justifyContent: center
+      subtitle:
+        textAlign: center
+        fontStyle: italic
+        fontWeight: 500
+    type: FeaturedItemsSection
+    actions:
+      - type: Link
+        label: Buy now
+        altText: Buy now
+        url: /pricing
+        showIcon: true
+        icon: shoppingBag
+        iconPosition: left
+        style: secondary
+        elementId: ''
+    backgroundImage:
+      type: BackgroundImage
+      altText: altText of the image
+      backgroundSize: contain
+      backgroundPosition: ''
+      backgroundRepeat: repeat
+      opacity: 100
+  - type: FeaturedItemsSection
+    title:
+      text: Basic Hoodies
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+      type: TitleBlock
+    subtitle: Subtitle goes here
+    items:
+      - type: FeaturedItem
+        title: Faux Fur Throw
+        subtitle: $ 88 – $ 176
+        image:
+          type: ImageBlock
+          url: /images/img-placeholder.svg
+          altText: Faux Fur Throw
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
+            textAlign: left
+            borderRadius: none
+            flexDirection: col
+            justifyContent: center
+      - type: FeaturedItem
+        title: Faux Fur Throw
+        subtitle: $ 88 – $ 176
+        image:
+          type: ImageBlock
+          url: /images/img-placeholder.svg
+          altText: Faux Fur Throw
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
+            textAlign: left
+            borderRadius: none
+            flexDirection: col
+            justifyContent: center
+      - type: FeaturedItem
+        title: Faux Fur Throw
+        subtitle: $ 88 – $ 176
+        image:
+          type: ImageBlock
+          url: /images/img-placeholder.svg
+          altText: Faux Fur Throw
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
+            textAlign: left
+            borderRadius: none
+            flexDirection: col
+            justifyContent: center
+      - type: FeaturedItem
+        title: Faux Fur Throw
+        subtitle: $ 88 – $ 176
+        image:
+          type: ImageBlock
+          url: /images/img-placeholder.svg
+          altText: Faux Fur Throw
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
+            textAlign: left
+            borderRadius: none
+            flexDirection: col
+            justifyContent: center
+    actions: []
+    elementId: Basic Hoodies
+    variant: two-col-grid
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        padding:
+          - pb-16
+          - pt-16
+          - pl-16
+          - pr-16
+        justifyContent: center
+      subtitle:
+        textAlign: center
+  - title: Divider
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-7
+          - pl-7
+          - pb-7
+          - pr-7
+    type: DividerSection
   - type: GenericSection
     title:
       text: Generic section with a video
@@ -512,98 +631,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - title:
-      text: List of features here
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: Featured items section subtitle
-    items:
-      - title: Feature Item One
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
-        image:
-          url: /images/abstract-feature1.svg
-          altText: Placeholder Image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-      - title: Feature Item Two
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
-        image:
-          url: /images/abstract-feature2.svg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-      - title: Feature Item Three
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
-        image:
-          url: /images/abstract-feature1.svg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-    variant: three-col-grid
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-8
-          - pb-16
-          - pr-8
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: FeaturedItemsSection
   - title:
       text: Generic Section With A Form
       color: text-dark

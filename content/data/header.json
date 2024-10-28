@@ -6,14 +6,15 @@
             "self": {
                 "margin": [
                     "mr-3"
-                ]
+                ],
+                "borderRadius": "small"
             }
         },
         "type": "ImageBlock"
     },
     "primaryLinks": [
         {
-            "label": "Pricing",
+            "label": "Our products",
             "url": "/pricing",
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -43,8 +44,8 @@
             "altText": "Dropdown",
             "links": [
                 {
-                    "label": "Dropdown item",
-                    "url": "/",
+                    "label": "Basic Hoodies",
+                    "url": "/Basic Hoodies",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
@@ -90,7 +91,7 @@
             "type": "Button"
         }
     ],
-    "variant": "logo-left-primary-nav-centered",
+    "variant": "logo-centered-primary-nav-centered",
     "colors": "bg-light-fg-dark",
     "type": "Header"
 }
