@@ -43,7 +43,7 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: t-Shirt
+      - title: Zip-up Hoodie
         price: 600 EGP
         details: ''
         description: >-
