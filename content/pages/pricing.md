@@ -43,7 +43,7 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: ''
+      - title: t-Shirt
         price: $99
         details: t-Shirt
         description: >-
