@@ -298,15 +298,15 @@ sections:
             justifyContent: center
     actions: []
     elementId: Basic Hoodies
-    variant: three-col-grid
+    variant: two-col-grid
     colors: bg-neutral-fg-dark
     styles:
       self:
         padding:
-          - pb-24
-          - pt-24
-          - pl-24
-          - pr-24
+          - pb-8
+          - pt-8
+          - pl-8
+          - pr-8
         justifyContent: center
         margin:
           - mt-0
