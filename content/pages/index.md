@@ -69,7 +69,7 @@ sections:
     items:
       - title: 'Hoodie '
         tagline: basic
-        subtitle: ''
+        subtitle: Essential Comfort Hoodie
         text: >
           This cozy, high-quality grey hoodie combines comfort and style with a
           relaxed fit, kangaroo pocket, and adjustable drawstring hood. Perfect
