@@ -161,7 +161,7 @@ sections:
           - pt-3
           - pl-8
           - pb-16
-          - pr-8
+          - pr-3
         justifyContent: center
       subtitle:
         textAlign: center
