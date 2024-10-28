@@ -153,7 +153,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-    variant: three-col-grid
+    variant: two-col-grid
     colors: bg-dark-fg-light
     styles:
       self:
