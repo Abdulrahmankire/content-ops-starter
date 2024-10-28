@@ -45,7 +45,7 @@ sections:
         type: PricingPlan
       - title: t-Shirt
         price: $99
-        details: t-Shirt
+        details: ''
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
