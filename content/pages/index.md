@@ -17,7 +17,7 @@ sections:
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     media:
       title: Title of the video
-      url: /images/placeholder-video.mp4
+      url: 'https://pin.it/3TvIQG4Ni'
       controls: false
       aspectRatio: '16:9'
       styles:
