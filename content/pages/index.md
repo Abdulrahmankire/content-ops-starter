@@ -157,6 +157,7 @@ sections:
       subtitle:
         textAlign: center
         fontStyle: italic
+        fontWeight: 500
     type: FeaturedItemsSection
   - type: FeaturedItemsSection
     title:
