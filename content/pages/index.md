@@ -67,7 +67,7 @@ sections:
       type: TitleBlock
     subtitle: stylish modern and comfy
     items:
-      - title: Feature Item One
+      - title: 'Hoodie '
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
