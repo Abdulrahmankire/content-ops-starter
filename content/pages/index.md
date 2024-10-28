@@ -93,7 +93,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Zip up Hoodie
+      - title: Zip-up Hoodie
         tagline: zipper
         subtitle: Classic Zip-Up Hoodie
         text: |
