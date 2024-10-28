@@ -127,7 +127,9 @@ sections:
           Learn from the tutorial and build your first awesome Netlify Create
           site.
         image:
-          url: /images/abstract-feature1.svg
+          url: >-
+            /images/Cheky - Women Couple Hoodies Sweatshirt Fleece Dream Merch -
+            Dark green B _ XL (1).jpg
           altText: Placeholder image
           styles:
             self:
