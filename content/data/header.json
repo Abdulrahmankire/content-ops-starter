@@ -31,6 +31,17 @@
             "iconPosition": "left",
             "style": "secondary",
             "elementId": ""
+        },
+        {
+            "type": "Link",
+            "label": "Buy now",
+            "altText": "Buy now",
+            "url": "/",
+            "showIcon": true,
+            "icon": "shoppingBag",
+            "iconPosition": "left",
+            "style": "secondary",
+            "elementId": ""
         }
     ],
     "secondaryLinks": [
