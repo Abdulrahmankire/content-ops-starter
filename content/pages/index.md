@@ -362,7 +362,7 @@ sections:
       backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: repeat
-      opacity: 57
+      opacity: 100
       url: /images/Kona Cotton Solids Black by Robert Kaufman.jpg
   - title: Divider
     colors: bg-light-fg-dark
