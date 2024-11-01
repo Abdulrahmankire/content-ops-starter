@@ -271,7 +271,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: basic hoodie
-        subtitle: $ 88 – $ 176
+        subtitle: '600'
         image:
           type: ImageBlock
           url: /images/1.png
