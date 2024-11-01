@@ -500,10 +500,10 @@ sections:
           - pb-1
           - pr-1
         margin:
-          - mt-20
-          - ml-20
-          - mb-20
-          - mr-20
+          - mt-0
+          - ml-0
+          - mb-0
+          - mr-0
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
