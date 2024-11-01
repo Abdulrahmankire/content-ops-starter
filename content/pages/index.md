@@ -394,7 +394,7 @@ sections:
     actions: []
     media:
       title: Title of the video
-      url: ''
+      url: 'https://www.youtube.com/watch?v=ZvzKuqSDyG8'
       autoplay: true
       loop: true
       muted: true
