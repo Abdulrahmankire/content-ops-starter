@@ -193,7 +193,7 @@ sections:
       opacity: 100
   - type: FeaturedItemsSection
     title:
-      text: Basic Hoodies
+      text: ''
       color: text-dark
       styles:
         self:
