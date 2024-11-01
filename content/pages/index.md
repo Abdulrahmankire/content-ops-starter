@@ -59,138 +59,6 @@ sections:
       backgroundRepeat: no-repeat
       opacity: 100
       url: /images/shirt-mockup-concept-with-plain-clothing.jpg
-  - title:
-      text: Check our products
-      color: text-light
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: 'stylish , modern and comfy'
-    items:
-      - title: 'Hoodie '
-        tagline: basic
-        subtitle: Essential Comfort Hoodie
-        text: >
-          **This cozy, high-quality grey hoodie combines comfort and style with
-          a relaxed fit, kangaroo pocket, and adjustable drawstring hood.
-          Perfect for everyday wear, it’s a versatile wardrobe staple that pairs
-          effortlessly with any outfit.**
-        image:
-          url: /images/Guys Kangaroo Pocket Drawstring Hoodie (1).jpg
-          altText: Placeholder Image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-      - title: Zip-up Hoodie
-        tagline: zipper
-        subtitle: Classic Zip-Up Hoodie
-        text: >
-          **This versatile zip-up hoodie combines warmth and style in one piece.
-          Crafted from soft fleece, it features a full-length zipper, roomy
-          kangaroo pockets, and a relaxed fit. Perfect for layering, it’s a
-          go-to choice for everyday wear, blending effortlessly with any casual
-          look.**
-        image:
-          url: /images/Fleece Zip Up Hoodie - Brown _ 2XL (1).jpg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-      - title: Printed-Hoodie
-        tagline: printed
-        subtitle: Printed Hoodie Collection
-        text: >+
-          **Brighten up your wardrobe with our collection of printed hoodies,
-          perfect for expressing personality and style. Each hoodie combines
-          comfort with eye-catching designs, featuring cozy fleece fabric,
-          relaxed fits, and functional details like kangaroo pockets and
-          adjustable drawstring hoods. Whether you're looking for a playful
-          graphic or a bold statement, these hoodies are versatile staples that
-          add fun and warmth to any casual look.**
-
-
-        image:
-          url: >-
-            /images/Cheky - Women Couple Hoodies Sweatshirt Fleece Dream Merch -
-            Dark green B _ XL (2).jpg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-    variant: three-col-grid
-    colors: bg-dark-fg-light
-    styles:
-      self:
-        padding:
-          - pt-9
-          - pl-9
-          - pb-9
-          - pr-9
-        justifyContent: center
-        margin:
-          - mt-0
-          - ml-0
-          - mb-0
-          - mr-0
-      subtitle:
-        textAlign: center
-        fontStyle: italic
-        fontWeight: 500
-    type: FeaturedItemsSection
-    actions:
-      - type: Link
-        label: Buy now
-        altText: Buy now
-        url: /pricing
-        showIcon: true
-        icon: shoppingBag
-        iconPosition: left
-        style: secondary
-        elementId: ''
-    backgroundImage:
-      type: BackgroundImage
-      altText: altText of the image
-      backgroundSize: contain
-      backgroundPosition: ''
-      backgroundRepeat: repeat
-      opacity: 100
   - type: FeaturedItemsSection
     title:
       text: 'Check the prices '
@@ -367,6 +235,138 @@ sections:
       url: >-
         /images/White fur background _ Fur aesthetic, Fur background, Glittery
         wallpaper.jpg
+  - title:
+      text: Check our products
+      color: text-light
+      styles:
+        self:
+          textAlign: center
+      type: TitleBlock
+    subtitle: 'stylish , modern and comfy'
+    items:
+      - title: 'Hoodie '
+        tagline: basic
+        subtitle: Essential Comfort Hoodie
+        text: >
+          **This cozy, high-quality grey hoodie combines comfort and style with
+          a relaxed fit, kangaroo pocket, and adjustable drawstring hood.
+          Perfect for everyday wear, it’s a versatile wardrobe staple that pairs
+          effortlessly with any outfit.**
+        image:
+          url: /images/Guys Kangaroo Pocket Drawstring Hoodie (1).jpg
+          altText: Placeholder Image
+          styles:
+            self:
+              borderRadius: x-large
+          type: ImageBlock
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+        type: FeaturedItem
+      - title: Zip-up Hoodie
+        tagline: zipper
+        subtitle: Classic Zip-Up Hoodie
+        text: >
+          **This versatile zip-up hoodie combines warmth and style in one piece.
+          Crafted from soft fleece, it features a full-length zipper, roomy
+          kangaroo pockets, and a relaxed fit. Perfect for layering, it’s a
+          go-to choice for everyday wear, blending effortlessly with any casual
+          look.**
+        image:
+          url: /images/Fleece Zip Up Hoodie - Brown _ 2XL (1).jpg
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+          type: ImageBlock
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+        type: FeaturedItem
+      - title: Printed-Hoodie
+        tagline: printed
+        subtitle: Printed Hoodie Collection
+        text: >+
+          **Brighten up your wardrobe with our collection of printed hoodies,
+          perfect for expressing personality and style. Each hoodie combines
+          comfort with eye-catching designs, featuring cozy fleece fabric,
+          relaxed fits, and functional details like kangaroo pockets and
+          adjustable drawstring hoods. Whether you're looking for a playful
+          graphic or a bold statement, these hoodies are versatile staples that
+          add fun and warmth to any casual look.**
+
+
+        image:
+          url: >-
+            /images/Cheky - Women Couple Hoodies Sweatshirt Fleece Dream Merch -
+            Dark green B _ XL (2).jpg
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+          type: ImageBlock
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+        type: FeaturedItem
+    variant: three-col-grid
+    colors: bg-dark-fg-light
+    styles:
+      self:
+        padding:
+          - pt-9
+          - pl-9
+          - pb-9
+          - pr-9
+        justifyContent: center
+        margin:
+          - mt-0
+          - ml-0
+          - mb-0
+          - mr-0
+      subtitle:
+        textAlign: center
+        fontStyle: italic
+        fontWeight: 500
+    type: FeaturedItemsSection
+    actions:
+      - type: Link
+        label: Buy now
+        altText: Buy now
+        url: /pricing
+        showIcon: true
+        icon: shoppingBag
+        iconPosition: left
+        style: secondary
+        elementId: ''
+    backgroundImage:
+      type: BackgroundImage
+      altText: altText of the image
+      backgroundSize: contain
+      backgroundPosition: ''
+      backgroundRepeat: repeat
+      opacity: 100
   - title: Divider
     colors: bg-neutral-fg-dark
     styles:
