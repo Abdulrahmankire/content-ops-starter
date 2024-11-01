@@ -2,6 +2,182 @@
 title: Home
 slug: /
 sections:
+  - type: FeaturedItemsSection
+    title:
+      text: 'Check the prices '
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+      type: TitleBlock
+    subtitle: ''
+    items:
+      - type: FeaturedItem
+        title: sweat shirt
+        subtitle: 600 egp
+        image:
+          type: ImageBlock
+          url: /images/2.png
+          altText: Faux Fur Throw
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions:
+          - type: Link
+            label: DM US
+            altText: Send
+            url: >-
+              /https://www.instagram.com/hoor.eg1?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
+            showIcon: true
+            icon: send
+            iconPosition: right
+            style: primary
+            elementId: ''
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
+            textAlign: left
+            borderRadius: none
+            flexDirection: col
+            justifyContent: center
+      - type: FeaturedItem
+        title: zip-up hoodie
+        subtitle: 750 egp
+        image:
+          type: ImageBlock
+          url: /images/3.png
+          altText: Faux Fur Throw
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions:
+          - type: Link
+            label: DM US
+            altText: Send
+            url: >-
+              /https://www.instagram.com/hoor.eg1?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
+            showIcon: true
+            icon: send
+            iconPosition: right
+            style: primary
+            elementId: ''
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
+            textAlign: left
+            borderRadius: none
+            flexDirection: col
+            justifyContent: center
+      - type: FeaturedItem
+        title: basic hoodie
+        subtitle: 600 egp
+        image:
+          type: ImageBlock
+          url: /images/1.png
+          altText: Faux Fur Throw
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions:
+          - type: Link
+            label: 'DM US '
+            altText: Send
+            url: >-
+              /https://www.instagram.com/hoor.eg1?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
+            showIcon: true
+            icon: send
+            iconPosition: right
+            style: primary
+            elementId: ''
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
+            textAlign: left
+            borderRadius: none
+            flexDirection: col
+            justifyContent: center
+      - type: FeaturedItem
+        title: high neck hoodie
+        subtitle: 650 egp
+        image:
+          type: ImageBlock
+          url: /images/4.png
+          altText: Faux Fur Throw
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions:
+          - type: Link
+            label: 'DM US '
+            altText: Send
+            url: >-
+              /https://www.instagram.com/hoor.eg1?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
+            showIcon: true
+            icon: send
+            iconPosition: right
+            style: primary
+            elementId: ''
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
+            textAlign: left
+            borderRadius: none
+            flexDirection: col
+            justifyContent: center
+    actions: []
+    elementId: Basic Hoodies
+    variant: three-col-grid
+    colors: bg-dark-fg-light
+    styles:
+      self:
+        padding:
+          - pb-8
+          - pt-8
+          - pl-8
+          - pr-8
+        justifyContent: center
+        margin:
+          - mt-0
+          - ml-0
+          - mb-0
+          - mr-0
+      subtitle:
+        textAlign: center
+        fontWeight: 700
+    backgroundImage:
+      type: BackgroundImage
+      altText: altText of the image
+      backgroundSize: auto
+      backgroundPosition: center
+      backgroundRepeat: repeat
+      opacity: 100
+      url: >-
+        /images/White fur background _ Fur aesthetic, Fur background, Glittery
+        wallpaper.jpg
   - title:
       text: HOOR EGY
       color: text-dark
@@ -191,182 +367,6 @@ sections:
       backgroundPosition: ''
       backgroundRepeat: repeat
       opacity: 100
-  - type: FeaturedItemsSection
-    title:
-      text: 'Check the prices '
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: ''
-    items:
-      - type: FeaturedItem
-        title: sweat shirt
-        subtitle: 600 egp
-        image:
-          type: ImageBlock
-          url: /images/2.png
-          altText: Faux Fur Throw
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions:
-          - type: Link
-            label: DM US
-            altText: Send
-            url: >-
-              /https://www.instagram.com/hoor.eg1?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
-            showIcon: true
-            icon: send
-            iconPosition: right
-            style: primary
-            elementId: ''
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-0
-              - pl-0
-              - pb-0
-              - pr-0
-            textAlign: left
-            borderRadius: none
-            flexDirection: col
-            justifyContent: center
-      - type: FeaturedItem
-        title: zip-up hoodie
-        subtitle: 750 egp
-        image:
-          type: ImageBlock
-          url: /images/3.png
-          altText: Faux Fur Throw
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions:
-          - type: Link
-            label: DM US
-            altText: Send
-            url: >-
-              /https://www.instagram.com/hoor.eg1?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
-            showIcon: true
-            icon: send
-            iconPosition: right
-            style: primary
-            elementId: ''
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-0
-              - pl-0
-              - pb-0
-              - pr-0
-            textAlign: left
-            borderRadius: none
-            flexDirection: col
-            justifyContent: center
-      - type: FeaturedItem
-        title: basic hoodie
-        subtitle: 600 egp
-        image:
-          type: ImageBlock
-          url: /images/1.png
-          altText: Faux Fur Throw
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions:
-          - type: Link
-            label: 'DM US '
-            altText: Send
-            url: >-
-              /https://www.instagram.com/hoor.eg1?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
-            showIcon: true
-            icon: send
-            iconPosition: right
-            style: primary
-            elementId: ''
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-0
-              - pl-0
-              - pb-0
-              - pr-0
-            textAlign: left
-            borderRadius: none
-            flexDirection: col
-            justifyContent: center
-      - type: FeaturedItem
-        title: high neck hoodie
-        subtitle: 650 egp
-        image:
-          type: ImageBlock
-          url: /images/4.png
-          altText: Faux Fur Throw
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions:
-          - type: Link
-            label: 'DM US '
-            altText: Send
-            url: >-
-              /https://www.instagram.com/hoor.eg1?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
-            showIcon: true
-            icon: send
-            iconPosition: right
-            style: primary
-            elementId: ''
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-0
-              - pl-0
-              - pb-0
-              - pr-0
-            textAlign: left
-            borderRadius: none
-            flexDirection: col
-            justifyContent: center
-    actions: []
-    elementId: Basic Hoodies
-    variant: three-col-grid
-    colors: bg-dark-fg-light
-    styles:
-      self:
-        padding:
-          - pb-8
-          - pt-8
-          - pl-8
-          - pr-8
-        justifyContent: center
-        margin:
-          - mt-0
-          - ml-0
-          - mb-0
-          - mr-0
-      subtitle:
-        textAlign: center
-        fontWeight: 700
-    backgroundImage:
-      type: BackgroundImage
-      altText: altText of the image
-      backgroundSize: auto
-      backgroundPosition: center
-      backgroundRepeat: repeat
-      opacity: 100
-      url: >-
-        /images/White fur background _ Fur aesthetic, Fur background, Glittery
-        wallpaper.jpg
   - title: Divider
     colors: bg-neutral-fg-dark
     styles:
