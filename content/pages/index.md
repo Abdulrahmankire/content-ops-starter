@@ -214,7 +214,7 @@ sections:
               borderRadius: medium
         actions:
           - type: Link
-            label: Send
+            label: DM US
             altText: Send
             url: >-
               /https://www.instagram.com/hoor.eg1?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
