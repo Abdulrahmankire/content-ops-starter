@@ -289,7 +289,7 @@ sections:
             showIcon: true
             icon: send
             iconPosition: right
-            style: secondary
+            style: primary
             elementId: ''
         colors: bg-neutralAlt-fg-dark
         styles:
