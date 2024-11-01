@@ -344,7 +344,7 @@ sections:
     styles:
       self:
         padding:
-          - pb-8
+          - pb-5
           - pt-8
           - pl-8
           - pr-8
