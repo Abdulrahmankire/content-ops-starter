@@ -10,10 +10,12 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: Our clothing local brand
-    text: >
-      Tradition meets trend. Our locally designed and produced garments, made
-      from pure Egyptian cotton, offer a perfect blend of heritage and
-      contemporary style. Customize your wardrobe to reflect your individuality.
+    text: >+
+      <div style="text-align: center">**Tradition meets trend. Our locally
+      designed and produced garments, made from pure Egyptian cotton, offer a
+      perfect blend of heritage and contemporary style. Customize your wardrobe
+      to reflect your individuality.**</div>
+
     media:
       title: Title of the video
       url: 'https://www.youtube.com/watch?v=ah-qNjM-V8Y'
