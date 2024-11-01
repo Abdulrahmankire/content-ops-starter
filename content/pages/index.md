@@ -363,7 +363,9 @@ sections:
       backgroundPosition: center
       backgroundRepeat: repeat
       opacity: 100
-      url: /images/Kona Cotton Solids Black by Robert Kaufman.jpg
+      url: >-
+        /images/White fur background _ Fur aesthetic, Fur background, Glittery
+        wallpaper.jpg
   - title: Divider
     colors: bg-light-fg-dark
     styles:
