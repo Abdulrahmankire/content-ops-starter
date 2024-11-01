@@ -237,7 +237,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: zip-up hoodie
-        subtitle: $ 88 – $ 176
+        subtitle: 750 egp
         image:
           type: ImageBlock
           url: /images/3.png
