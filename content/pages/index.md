@@ -246,7 +246,17 @@ sections:
           styles:
             self:
               borderRadius: medium
-        actions: []
+        actions:
+          - type: Link
+            label: Send
+            altText: Send
+            url: >-
+              /https://www.instagram.com/hoor.eg1?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
+            showIcon: true
+            icon: send
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-light-fg-dark
         styles:
           self:
