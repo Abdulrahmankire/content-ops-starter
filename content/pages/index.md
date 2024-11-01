@@ -199,7 +199,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: check the prices
     items:
       - type: FeaturedItem
         title: sweat shirt
