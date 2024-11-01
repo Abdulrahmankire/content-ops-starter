@@ -304,7 +304,7 @@ sections:
             flexDirection: col
             justifyContent: center
       - type: FeaturedItem
-        title: high neck sweeter
+        title: high neck hoodie
         subtitle: $ 88 – $ 176
         image:
           type: ImageBlock
