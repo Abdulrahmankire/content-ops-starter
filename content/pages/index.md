@@ -390,7 +390,8 @@ sections:
       **Hoor's hoodie blends premium quality with exceptional fabric to bring
       you comfort and style in every moment.**
 
-       **This is more than clothing; it's crafted to be part of your journey.**
+
+      **This is more than clothing , it's crafted to be part of your journey.**
     actions: []
     media:
       title: Title of the video
