@@ -495,10 +495,10 @@ sections:
     styles:
       self:
         padding:
-          - pt-32
-          - pl-32
-          - pb-32
-          - pr-32
+          - pt-1
+          - pl-1
+          - pb-1
+          - pr-1
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
