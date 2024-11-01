@@ -10,11 +10,10 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: Our clothing local brand
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Tradition meets trend. Our locally designed and produced garments, made
+      from pure Egyptian cotton, offer a perfect blend of heritage and
+      contemporary style. Customize your wardrobe to reflect your individuality.
     media:
       title: Title of the video
       url: 'https://www.youtube.com/watch?v=ah-qNjM-V8Y'
