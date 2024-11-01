@@ -2,63 +2,6 @@
 title: Home
 slug: /
 sections:
-  - title:
-      text: HOOR EGY
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: Our clothing local brand
-    text: >+
-      <div style="text-align: center">**Tradition meets trend. Our locally
-      designed and produced garments, made from pure Egyptian cotton, offer a
-      perfect blend of heritage and contemporary style. Customize your wardrobe
-      to reflect your individuality.**</div>
-
-    media:
-      title: Title of the video
-      url: 'https://www.youtube.com/watch?v=ah-qNjM-V8Y'
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-      autoplay: true
-      loop: true
-      muted: true
-    badge:
-      label: Welcome to
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: col
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: GenericSection
-    backgroundImage:
-      type: BackgroundImage
-      altText: altText of the image
-      backgroundSize: auto
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
-      url: /images/shirt-mockup-concept-with-plain-clothing.jpg
   - type: FeaturedItemsSection
     title:
       text: 'Check the prices '
@@ -235,6 +178,63 @@ sections:
       url: >-
         /images/White fur background _ Fur aesthetic, Fur background, Glittery
         wallpaper.jpg
+  - title:
+      text: HOOR EGY
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+      type: TitleBlock
+    subtitle: Our clothing local brand
+    text: >+
+      <div style="text-align: center">**Tradition meets trend. Our locally
+      designed and produced garments, made from pure Egyptian cotton, offer a
+      perfect blend of heritage and contemporary style. Customize your wardrobe
+      to reflect your individuality.**</div>
+
+    media:
+      title: Title of the video
+      url: 'https://www.youtube.com/watch?v=ah-qNjM-V8Y'
+      controls: false
+      aspectRatio: '16:9'
+      styles:
+        self:
+          padding:
+            - pt-2
+            - pb-2
+            - pl-2
+            - pr-2
+          borderColor: border-dark
+          borderStyle: solid
+          borderWidth: 1
+          borderRadius: large
+      type: VideoBlock
+      autoplay: true
+      loop: true
+      muted: true
+    badge:
+      label: Welcome to
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+      type: Badge
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        flexDirection: col
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    type: GenericSection
+    backgroundImage:
+      type: BackgroundImage
+      altText: altText of the image
+      backgroundSize: auto
+      backgroundPosition: center
+      backgroundRepeat: no-repeat
+      opacity: 100
+      url: /images/shirt-mockup-concept-with-plain-clothing.jpg
   - title:
       text: Check our products
       color: text-light
