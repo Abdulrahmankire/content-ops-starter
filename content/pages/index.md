@@ -363,6 +363,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/download (1).jpg
   - title: Divider
     colors: bg-light-fg-dark
     styles:
