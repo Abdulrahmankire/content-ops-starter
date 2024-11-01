@@ -379,7 +379,7 @@ sections:
     type: DividerSection
   - type: GenericSection
     title:
-      text: '"Not just a hoodie—it''s a companion. '
+      text: '"Not just a hoodie it''s a companion"'
       color: text-dark
       styles:
         self:
