@@ -193,7 +193,7 @@ sections:
       opacity: 100
   - type: FeaturedItemsSection
     title:
-      text: ''
+      text: 'Check the prices '
       color: text-dark
       styles:
         self:
