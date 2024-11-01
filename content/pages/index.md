@@ -662,11 +662,13 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: IF There is any porblem
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      please let us know if there is any problem that faced you while ordering
+      or a probelm with our product 
+
+
+      and we would happy if you gave us a feedback
+
     media:
       fields:
         - name: name
