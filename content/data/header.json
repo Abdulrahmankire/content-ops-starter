@@ -22,54 +22,26 @@
             "type": "Link"
         },
         {
-            "label": "Blog",
-            "altText": "Blog",
-            "url": "/blog",
-            "icon": "arrowRight",
-            "iconPosition": "right",
+            "type": "Link",
+            "label": "Instagram",
+            "altText": "Instagram",
+            "url": "/https://www.instagram.com/hoor.eg1?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+            "showIcon": true,
+            "icon": "instagram",
+            "iconPosition": "left",
             "style": "secondary",
-            "type": "Link"
+            "elementId": ""
         },
         {
-            "label": "Careers",
-            "altText": "Careers page",
-            "url": "/careers",
-            "icon": "arrowRight",
-            "iconPosition": "right",
+            "type": "Link",
+            "label": "Buy now",
+            "altText": "Buy now",
+            "url": "/",
+            "showIcon": true,
+            "icon": "shoppingBag",
+            "iconPosition": "left",
             "style": "secondary",
-            "type": "Link"
-        },
-        {
-            "label": "Dropdown",
-            "altText": "Dropdown",
-            "links": [
-                {
-                    "label": "Basic Hoodies",
-                    "url": "/Basic Hoodies",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                },
-                {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                },
-                {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                }
-            ],
-            "labelStyle": "secondary",
-            "type": "SubNav"
+            "elementId": ""
         }
     ],
     "secondaryLinks": [
