@@ -339,7 +339,7 @@ sections:
             justifyContent: center
     actions: []
     elementId: Basic Hoodies
-    variant: three-col-grid
+    variant: two-col-grid
     colors: bg-dark-fg-light
     styles:
       self:
