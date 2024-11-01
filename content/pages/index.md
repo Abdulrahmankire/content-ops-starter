@@ -361,7 +361,7 @@ sections:
       altText: altText of the image
       backgroundSize: auto
       backgroundPosition: center
-      backgroundRepeat: repeat
+      backgroundRepeat: repeat-x
       opacity: 100
       url: >-
         /images/White fur background _ Fur aesthetic, Fur background, Glittery
