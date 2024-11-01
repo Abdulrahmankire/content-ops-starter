@@ -368,7 +368,7 @@ sections:
         /images/White fur background _ Fur aesthetic, Fur background, Glittery
         wallpaper.jpg
   - title: Divider
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         padding:
