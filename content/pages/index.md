@@ -361,7 +361,7 @@ sections:
       altText: altText of the image
       backgroundSize: cover
       backgroundPosition: center
-      backgroundRepeat: no-repeat
+      backgroundRepeat: repeat
       opacity: 57
       url: /images/Kona Cotton Solids Black by Robert Kaufman.jpg
   - title: Divider
