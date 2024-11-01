@@ -203,7 +203,7 @@ sections:
     items:
       - type: FeaturedItem
         title: sweat shirt
-        subtitle: $ 88 – $ 176
+        subtitle: 600 egp
         image:
           type: ImageBlock
           url: /images/2.png
