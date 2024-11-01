@@ -339,7 +339,7 @@ sections:
             justifyContent: center
     actions: []
     elementId: Basic Hoodies
-    variant: big-list
+    variant: small-list
     colors: bg-dark-fg-light
     styles:
       self:
