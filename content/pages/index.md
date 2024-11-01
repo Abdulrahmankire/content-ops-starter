@@ -379,7 +379,7 @@ sections:
     type: DividerSection
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: '"Not just a hoodie—it''s a companion. '
       color: text-dark
       styles:
         self:
