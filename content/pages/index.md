@@ -350,10 +350,10 @@ sections:
           - pr-8
         justifyContent: center
         margin:
-          - mt-12
-          - ml-12
-          - mb-12
-          - mr-12
+          - mt-0
+          - ml-0
+          - mb-0
+          - mr-0
       subtitle:
         textAlign: center
     backgroundImage:
