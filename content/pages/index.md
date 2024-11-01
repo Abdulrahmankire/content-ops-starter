@@ -348,7 +348,7 @@ sections:
           - pt-8
           - pl-8
           - pr-8
-        justifyContent: center
+        justifyContent: flex-start
         margin:
           - mt-0
           - ml-0
