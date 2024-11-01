@@ -271,7 +271,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: basic hoodie
-        subtitle: '600'
+        subtitle: 600 egp
         image:
           type: ImageBlock
           url: /images/1.png
