@@ -19,7 +19,15 @@
         ],
         "type": "FooterLinksGroup"
     },
-    "socialLinks": [],
+    "socialLinks": [
+        {
+            "type": "Social",
+            "altText": "Instagram link",
+            "url": "/https://www.instagram.com/hoor.eg1/",
+            "icon": "instagram",
+            "elementId": ""
+        }
+    ],
     "legalLinks": [
         {
             "label": "Terms",
