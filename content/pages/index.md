@@ -414,7 +414,7 @@ sections:
           borderRadius: large
       type: VideoBlock
     elementId: null
-    colors: bg-dark-fg-light
+    colors: bg-neutral-fg-dark
     styles:
       self:
         flexDirection: row
