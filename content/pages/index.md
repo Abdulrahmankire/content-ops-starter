@@ -305,7 +305,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: high neck hoodie
-        subtitle: $ 88 – $ 176
+        subtitle: 650 egp
         image:
           type: ImageBlock
           url: /images/4.png
